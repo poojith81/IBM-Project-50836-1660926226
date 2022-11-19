@@ -69,7 +69,7 @@ A person diagnosed with Parkinson’s disease can have other symptoms that inclu
 
 ## Team mates 
 - Aniketh K (Team Leader)
-- Poojith D
+- Poojith
 - Somnath M
 - Tharun N
 
